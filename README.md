@@ -35,4 +35,10 @@ Data Model Explanation:
 ![Image 3-26-24 at 4 37 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/8155233f-5a8b-4bbc-be90-d0e62073cd8f)
 
 
+## Queries:
+
+
+## Database Information
+
+Database Name: ns_Sp24_61608_Group8
 
