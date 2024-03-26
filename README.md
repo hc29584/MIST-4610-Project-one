@@ -1,5 +1,3 @@
-# MIST-4610-Project-one
-
 
 # Team 8 Mist 4610 Group Project 1
 
@@ -9,7 +7,7 @@ Group 8
 
 ## Team Members:
 
-Will Solomon @willtsolomon
+[Will Solomon](https://github.com/Willtsolomon)
 
 Libby Lausier @libbylausier
 
@@ -22,6 +20,9 @@ Jack Clark @JackClark12
 Zoey Cho @
 
 ## Problem Description:
+
+
+
 
 
 
