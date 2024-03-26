@@ -31,4 +31,7 @@ Data Model Explanation:
 
 ## Data Dictionary:
 
+![Image 3-26-24 at 4 35 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/cb23d2ab-c0c7-4a41-ba51-a2d0f64493d1)
+
+
 
