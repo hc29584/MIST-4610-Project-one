@@ -23,6 +23,7 @@ Group 8
 
 The problem at hand is to model a relational database for the day-to-today workings of an Emergency Healthcare Clinic. The central entity of this model is the Patients entity. The clinic also wants to keep track of things such as the staff members, prescriptions, invoices, medical equipment, ect.  Our group is interested in accurately modeling these entities and relationships, by generating sample data, and integrating each entity with the sample data. Finally, we would like to test our model and sample data by formulating applicable queries that provide relevant and valuable information regarding the Emergency Clinics Operations.
 
+![Image%203-26-24%20at%204 32%E2%80%AFPM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/f7d780a0-b0e5-48e5-9ad2-4d4458c672a1)
 
 
 
