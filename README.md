@@ -25,7 +25,21 @@ The problem at hand is to model a relational database for the day-to-today worki
 
 ## Data Model:
 
-Data Model Explanation: 
+Data Model Explanation: Our data model is designed to efficiently manage the operations of our emergency healthcare clinic, ensuring that we deliver timely and comprehensive medical care to patients with urgent health needs. Just like a vacation resort, our clinic operates around the clock, offering a wide range of medical services from minor injuries to critical conditions, all with a focus on patient-centric care.
+
+At the core of our database is the Patients entity. This entity represents individuals seeking medical assistance at our clinic. Each patient is assigned a unique Patient ID, serving as a primary key for identification purposes. The Patients entity captures essential information about each patient, including their Name, Date of Birth, Gender, City, State, Phone Number, Email, and Emergency Contact Information. These details enable us to effectively communicate with patients and their families, ensuring seamless coordination of care.
+
+Our clinic organizes its operations into various departments, each responsible for specific aspects of patient care and administrative functions. These departments may include Emergency Medicine, Pediatrics, Internal Medicine, Radiology, and Administration, among others. Each department is represented as an entity within our data model, facilitating efficient management of resources and personnel allocation.
+
+Within each department, there are many healthcare professionals, including physicians, nurses, technicians, and administrative staff. The one-to-many relationship between the Departments and Employees entities allows us to track staffing levels, roles, and responsibilities across the clinic. This ensures that the right personnel are available to provide care to patients at all times.
+
+Our clinic offers a diverse range of medical services to meet the needs of our patients. These services may include diagnostic imaging, laboratory testing, minor surgical procedures, and specialized treatments for acute conditions. Each service is represented as an entity within our data model, with attributes such as Service ID, Service Name, Description, and Associated Costs.
+
+In addition to medical services, our clinic may also offer ancillary facilities and resources, such as pharmacies, rehabilitation centers, and counseling services. These facilities are integrated into our data model as separate entities, allowing for comprehensive management of patient care and support services.
+
+Furthermore, we recognized the importance of tracking patient interactions and medical histories to ensure continuity of care. Therefore, our data model includes entities such as Medical Records, Visit Logs, and Treatment Plans, which capture detailed information about patient encounters, diagnoses, treatments, and follow-up care.
+
+Overall, our data model provides a comprehensive framework for managing the complex operations of our emergency healthcare clinic, enabling us to deliver efficient, high-quality care to patients in need, around the clock.
 
 ![Image%203-26-24%20at%204 32%E2%80%AFPM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/f7d780a0-b0e5-48e5-9ad2-4d4458c672a1)
 
