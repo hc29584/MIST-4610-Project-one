@@ -25,7 +25,10 @@ The problem at hand is to model a relational database for the day-to-today worki
 
 ## Data Model:
 
+Data Model Explanation: 
+
 ![Image%203-26-24%20at%204 32%E2%80%AFPM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/f7d780a0-b0e5-48e5-9ad2-4d4458c672a1)
 
+## Data Dictionary:
 
 
