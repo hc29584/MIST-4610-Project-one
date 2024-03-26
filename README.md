@@ -17,7 +17,7 @@ Group 8
 
 [Jack Clark](https://github.com/JackClark12)
 
-[Zoey Cho](https://github.com)
+[Zoey Cho](https://github.com/hc29584)
 
 ## Problem Description:
 
