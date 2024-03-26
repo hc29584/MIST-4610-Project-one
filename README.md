@@ -47,6 +47,11 @@ Overall, our data model provides a comprehensive framework for managing the comp
 
 ![Image 3-26-24 at 4 35 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/cb23d2ab-c0c7-4a41-ba51-a2d0f64493d1)
 ![Image 3-26-24 at 4 37 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/8155233f-5a8b-4bbc-be90-d0e62073cd8f)
+![Image 3-26-24 at 4 39 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/47ff8745-6cd3-4cdf-8864-78e68381f8e9)
+![Image 3-26-24 at 4 40 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/3c248003-ac54-4289-8226-0e8d193692a6)
+![Image 3-26-24 at 4 40 PM (1)](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/b8ab9cfd-55f6-4a90-868b-72fb237c3718)
+![Image 3-26-24 at 4 40 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/20a9d336-762f-47e0-a4e6-c187248427e4)
+![Image 3-26-24 at 4 41 PM](https://github.com/Willtsolomon/MIST-4610-Project-one/assets/150104481/75ca1beb-67ec-41f5-ad08-5c2cfb046297)
 
 
 ## Queries:
